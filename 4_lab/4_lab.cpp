@@ -4,13 +4,14 @@
 #include <random>
 #include <time.h>
 
+#include "DDS.h"
 #include "Stack.h"
 #include "LinkedList.h"
 
 
 using namespace std;
 
-void printStructs(Stack* stack, List* list) {
+void printStructs(DDS* stack, DDS* list) {
 	cout << "Stack: ";
 	stack->print(cout);
 	cout << "List: ";
@@ -20,8 +21,8 @@ void printStructs(Stack* stack, List* list) {
 int main() {
 	srand(time(0));
 
-	Stack* stack = new Stack();
-	List* list = new List();
+	DDS* stack = new Stack();
+	DDS* list = new List();
 	for (int i = 0; i < 10; i++) {
 		list->push(rand() % 20);
 		stack->push(rand() % 20);

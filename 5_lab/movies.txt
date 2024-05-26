@@ -1,0 +1,100 @@
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------
+Movie: 
+-------------------------------------
+Name: default
+Price(No discount): 5.99
+Discount Percent: 0.5
+Discount amount: 2.995
+End Price: 2.995
+year: default
+genre: Horror
+-------------------------------------

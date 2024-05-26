@@ -1,0 +1,148 @@
+default             18        Nigeria   
+Egor                18        Niger     
+Default event       USA            20.01.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Base Style          Netherlands    15.10.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+Team:     
+default             18        Nigeria   
+
+Egor                18        Niger     
+
+Default Tournament  
+Competitions: 
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+default             18        Nigeria   
+Egor                18        Niger     
+Default event       USA            20.01.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Base Style          Netherlands    15.10.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+Team:     
+default             18        Nigeria   
+
+Egor                18        Niger     
+
+Default Tournament  
+Competitions: 
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+default             18        Nigeria   
+Egor                18        Niger     
+Default event       USA            20.01.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Base Style          Netherlands    15.10.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+Team:     
+default             18        Nigeria   
+
+Egor                18        Niger     
+
+Default Tournament  
+Competitions: 
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+default             18        Nigeria   
+Egor                18        Niger     
+Default event       USA            20.01.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Base Style          Netherlands    15.10.2025
+Participants: 
+  default             18        Nigeria   
+  Egor                18        Niger     
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
+Team:     
+default             18        Nigeria   
+
+Egor                18        Niger     
+
+Default Tournament  
+Competitions: 
+Results:            
+1         default             18        Nigeria   
+
+2         Egor                18        Niger     
+
+Results:            
+4         default             18        Nigeria   
+
+5         Egor                18        Niger     
+
